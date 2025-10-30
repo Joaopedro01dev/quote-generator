@@ -48,5 +48,6 @@ const quotes = [
   '"Grandes coisas nunca vêm de zonas de conforto."',
   '"Não conte os dias, faça os dias contarem."',
   '"Você é o único responsável por escrever a sua própria história."',
-  '"A melhor forma de prever o futuro é criá-lo."'
+  '"A melhor forma de prever o futuro é criá-lo."',
+  '"Deus... é tudo o que nós precisamos."'
 ];
